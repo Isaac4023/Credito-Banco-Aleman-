@@ -161,16 +161,6 @@ Durante el desarrollo se reforzaron conceptos como:
 
 ---
 
-## 🔮 Posibles Mejoras Futuras
-
-- Implementar validación cruzada.
-- Aplicar técnicas de balanceo como SMOTE.
-- Probar modelos adicionales (LightGBM, CatBoost).
-- Exportar el modelo entrenado.
-- Crear una pequeña API para predicción.
-
----
-
 ## 👨‍💻 Autor
 
 Isaac Delgado  
